@@ -1,11 +1,13 @@
 ## Hola
-Decompilo juegos de Unity por diversión.
+Decompilo juegos de Unity y Godot por diversión.
 
-Si quieres pedirme que decompile un juego de Unity, tiene que cumplir los siguientes requisitos:
-- Tiene que estar compilado en Mono
-- Su código no tiene que estar obfuscado de ninguna forma
-- No debe ser un juego de pago
-- El juego no debe usar plugins externos como Rewired, Scriptable Sheets o Obfuscator Source
-- No debe ser un juego multijugador
+Si quieres pedirme que decompile un juego de Unity o Godot, tiene que cumplir los siguientes requisitos:
+- Tiene que estar compilado en Mono (Unity)
+- Su código no tiene que estar obfuscado de ninguna forma (Ambos)
+- No debe ser un juego de pago (Ambos)
+- El juego no debe usar una versión modificada del motor (Ambos)
+- El juego no debe tener una llave de encriptación (Godot)
+- El juego no debe usar plugins externos como Rewired, Scriptable Sheets o Obfuscator Source (Unity)
+- No debe ser un juego multijugador (Ambos)
   
 Que tengas un buen día!
