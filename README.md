@@ -1,16 +1,11 @@
-## Hi there 👋
+## Hola
+Decompilo juegos de Unity por diversión.
 
-<!--
-**lvplay2/lvplay2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Si quieres pedirme que decompile un juego de Unity, tiene que cumplir los siguientes requisitos:
+- Tiene que estar compilado en Mono
+- Su código no tiene que estar obfuscado de ninguna forma
+- No debe ser un juego de pago
+- El juego no debe usar plugins externos como Rewired, Scriptable Sheets o Obfuscator Source
+- No debe ser un juego multijugador
+  
+Que tengas un buen día!
