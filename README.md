@@ -1,7 +1,7 @@
 ## Hola
 Decompilo juegos de Unity por diversión.
 
-Si quieres pedirme que decompile un juego de Unity o Godot, debe cumplir los siguientes requisitos:
+Si quieres pedirme que decompile un juego de Unity, debe cumplir los siguientes requisitos:
 - El juego tiene que estar compilado en Mono
 - Su código no tiene que estar obfuscado de ninguna forma
 - No debe ser un juego de pago
